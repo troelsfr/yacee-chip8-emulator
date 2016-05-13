@@ -1,3 +1,4 @@
+/* Copyright (c) 2016, Troels F. Roennow */
 #include <iostream>
 #include <fstream>
 #include "chip8.hpp"

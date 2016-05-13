@@ -1,3 +1,4 @@
+/* Copyright (c) 2016, Troels F. Roennow */
 #include <stack>
 #include <vector>
 #include <cstdio>
